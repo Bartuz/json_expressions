@@ -232,7 +232,7 @@ but not
   boolean: Boolean, # See http://stackoverflow.com/questions/3028243/check-if-ruby-object-is-a-boolean#answer-3028378
   array:   Array,
   object:  Hash,
-  null:    NilClass,
+  null:    NilClass
 }
 ```
 matches the JSON object
